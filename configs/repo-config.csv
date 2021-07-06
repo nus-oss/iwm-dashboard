@@ -1,5 +1,5 @@
-Repository's Location,Branch,File Formats,Ignore Glob List,Ignore standalone config,Ignore Commit List,Ignore Authors List
-https://github.com/CATcher-org/CATcher.git,master,js;css;html;ts,,Yes,,
-https://github.com/MarkBind/MarkBind.git,master,java;js;css;json;md;mbd;mbdf;njk;py;vue;yml,package-lock.json;test/functional/test_site/expected/**;test/functional/test_site_algolia_plugin/expected/**;test/functional/test_site_convert/expected/**;test/functional/test_site_expressive_layout/expected/**;test/functional/test_site_special_tags/expected/**;test/functional/test_site_templates/expected/**;test/functional/test_site/expected/**;test/functional/test_site/expected/**,Yes,,
-https://github.com/RepoSense/RepoSense.git,master,java;js;scss;json;md;py;pug;gradle;sh;yml,src/systemtest/resources/**,Yes,,
-https://github.com/RepoSense/TEAMMATES.git,master,java;js;scss;md;py;tag;html;ts,,Yes,,
+Repository's Location,Branch,File Formats,Ignore Glob List,Ignore standalone config,Ignore Commit List,Ignore Authors List,Shallow Cloning
+https://github.com/CATcher-org/CATcher.git,master,js;css;html;ts,,Yes,,,
+https://github.com/MarkBind/markbind.git,master,java;js;css;json;md;mbd;mbdf;njk;py;vue;yml,package-lock.json;test/functional/test_site/expected/**;test/functional/test_site_algolia_plugin/expected/**;test/functional/test_site_convert/expected/**;test/functional/test_site_expressive_layout/expected/**;test/functional/test_site_special_tags/expected/**;test/functional/test_site_templates/expected/**;test/functional/test_site/expected/**;test/functional/test_site/expected/**,Yes,,,
+https://github.com/reposense/RepoSense.git,master,java;js;scss;json;md;py;pug;gradle;sh;yml,src/systemtest/resources/**,Yes,,,
+https://github.com/teammates/TEAMMATES.git,master,java;js;scss;md;py;tag;html;ts,,Yes,,,
