@@ -1,87 +1,87 @@
-Jul 06, 2021 6:46:28 PM reposense.parser.CsvParser validateHeader
+Jul 06, 2021 7:22:03 PM reposense.parser.CsvParser validateHeader
 INFO: Parsed header of CSV file, repo-config.csv, and recognized columns: Ignore Commit List,  Repository's Location,  Branch,  File formats,  Ignore Glob List,  Ignore Authors List,  Ignore standalone config
-Jul 06, 2021 6:46:28 PM reposense.parser.CsvParser validateHeader
+Jul 06, 2021 7:22:03 PM reposense.parser.CsvParser validateHeader
 INFO: Parsed header of CSV file, author-config.csv, and recognized columns: Author's Emails,  Repository's Location,  Author's GitHub ID,  Branch,  Author's Display Name,  Ignore Glob List,  Author's Git Author Name
-Jul 06, 2021 6:46:28 PM reposense.parser.CsvParser parse
+Jul 06, 2021 7:22:03 PM reposense.parser.CsvParser parse
 WARNING: Error parsing line 2 in CSV file, author-config.csv.
 Content: https://github.com/RepoSense/RepoSense,master,aidoxe-123,e0407657@u.nus.edu,HUYN..UONG,aidoxe-123,
 Error: https://github.com/RepoSense/RepoSense is an invalid location.
-Jul 06, 2021 6:46:28 PM reposense.parser.CsvParser parse
+Jul 06, 2021 7:22:03 PM reposense.parser.CsvParser parse
 WARNING: Error parsing line 3 in CSV file, author-config.csv.
 Content: https://github.com/RepoSense/TEAMMATES,master,samuelfangjw,samuel.fang@u.nus.edu,FANG..MUEL,samuelfangjw,
 Error: https://github.com/RepoSense/TEAMMATES is an invalid location.
-Jul 06, 2021 6:46:28 PM reposense.parser.CsvParser parse
+Jul 06, 2021 7:22:03 PM reposense.parser.CsvParser parse
 WARNING: Error parsing line 4 in CSV file, author-config.csv.
 Content: https://github.com/RepoSense/TEAMMATES,master,lyeyixian,e0407794@u.nus.edu,LYE ..XIAN,lyeyixian,
 Error: https://github.com/RepoSense/TEAMMATES is an invalid location.
-Jul 06, 2021 6:46:28 PM reposense.parser.CsvParser parse
+Jul 06, 2021 7:22:03 PM reposense.parser.CsvParser parse
 WARNING: Error parsing line 5 in CSV file, author-config.csv.
 Content: https://github.com/CATcher-org/CATcher,master,AudreyFelicio,e0407742@u.nus.edu,AUDR..NWAR,AudreyFelicio,
 Error: https://github.com/CATcher-org/CATcher is an invalid location.
-Jul 06, 2021 6:46:28 PM reposense.parser.CsvParser parse
+Jul 06, 2021 7:22:03 PM reposense.parser.CsvParser parse
 WARNING: Error parsing line 6 in CSV file, author-config.csv.
 Content: https://github.com/MarkBind/MarkBind,master,kimberlyohq,kimberlyohq@u.nus.edu,KIMB.. ONG,kimberlyohq,
 Error: https://github.com/MarkBind/MarkBind is an invalid location.
-Jul 06, 2021 6:46:28 PM reposense.parser.CsvParser parse
+Jul 06, 2021 7:22:03 PM reposense.parser.CsvParser parse
 WARNING: Error parsing line 7 in CSV file, author-config.csv.
 Content: https://github.com/RepoSense/TEAMMATES,master,xyzhang00,xinyiz@u.nus.edu,ZHAN..INYI,xyzhang00,
 Error: https://github.com/RepoSense/TEAMMATES is an invalid location.
-Jul 06, 2021 6:46:28 PM reposense.parser.CsvParser parse
+Jul 06, 2021 7:22:03 PM reposense.parser.CsvParser parse
 WARNING: Error parsing line 8 in CSV file, author-config.csv.
 Content: https://github.com/RepoSense/TEAMMATES,master,Jellybeano,e0412874@u.nus.edu,LAN ..XUAN,Jellybeano,
 Error: https://github.com/RepoSense/TEAMMATES is an invalid location.
-Jul 06, 2021 6:46:28 PM reposense.parser.CsvParser parse
+Jul 06, 2021 7:22:03 PM reposense.parser.CsvParser parse
 WARNING: Error parsing line 9 in CSV file, author-config.csv.
 Content: https://github.com/RepoSense/TEAMMATES,master,tjtanjin,cjtanjin@gmail.com,TAN .. JIN,tjtanjin,
 Error: https://github.com/RepoSense/TEAMMATES is an invalid location.
-Jul 06, 2021 6:46:28 PM reposense.parser.CsvParser parse
+Jul 06, 2021 7:22:03 PM reposense.parser.CsvParser parse
 WARNING: Error parsing line 10 in CSV file, author-config.csv.
 Content: https://github.com/RepoSense/RepoSense,master,litone01,jiaxiang_yu@u.nus.edu,YU J..IANG,litone01,
 Error: https://github.com/RepoSense/RepoSense is an invalid location.
-Jul 06, 2021 6:46:28 PM reposense.parser.CsvParser parse
+Jul 06, 2021 7:22:03 PM reposense.parser.CsvParser parse
 WARNING: Error parsing line 11 in CSV file, author-config.csv.
 Content: https://github.com/RepoSense/TEAMMATES,master,pPris,p.priscillapaulson@u.nus.edu,PRIN..LSON,pPris,
 Error: https://github.com/RepoSense/TEAMMATES is an invalid location.
-Jul 06, 2021 6:46:28 PM reposense.parser.CsvParser parse
+Jul 06, 2021 7:22:03 PM reposense.parser.CsvParser parse
 WARNING: Error parsing line 12 in CSV file, author-config.csv.
 Content: https://github.com/CATcher-org/CATcher,master,ducbinh2611,e0271216@u.nus.edu,NGO ..BINH,ducbinh2611,
 Error: https://github.com/CATcher-org/CATcher is an invalid location.
-Jul 06, 2021 6:46:28 PM reposense.parser.CsvParser parse
+Jul 06, 2021 7:22:03 PM reposense.parser.CsvParser parse
 WARNING: Error parsing line 13 in CSV file, author-config.csv.
 Content: https://github.com/CATcher-org/CATcher,master,zatkiller,dylan.ghee@u.nus.edu,DYLA..KANG,zatkiller,
 Error: https://github.com/CATcher-org/CATcher is an invalid location.
-Jul 06, 2021 6:46:28 PM reposense.parser.CsvParser parse
+Jul 06, 2021 7:22:03 PM reposense.parser.CsvParser parse
 WARNING: Error parsing line 14 in CSV file, author-config.csv.
 Content: https://github.com/RepoSense/RepoSense,master,chan-j-d,e0014929@u.nus.edu,CHAN..N DA,chan-j-d,
 Error: https://github.com/RepoSense/RepoSense is an invalid location.
-Jul 06, 2021 6:46:28 PM reposense.parser.CsvParser parse
+Jul 06, 2021 7:22:03 PM reposense.parser.CsvParser parse
 WARNING: Error parsing line 15 in CSV file, author-config.csv.
 Content: https://github.com/RepoSense/RepoSense,master,FH-30,finxictus@gmail.com,FRAN..ANTO,FH-30,
 Error: https://github.com/RepoSense/RepoSense is an invalid location.
-Jul 06, 2021 6:46:28 PM reposense.RepoSense getRepoConfigurations
+Jul 06, 2021 7:22:03 PM reposense.RepoSense getRepoConfigurations
 WARNING: No valid configurations in the author-config.csv.
 reposense.parser.InvalidCsvException: No valid configurations in the author-config.csv.
 	at reposense.parser.CsvParser.parse(CsvParser.java:106)
 	at reposense.RepoSense.getRepoConfigurations(RepoSense.java:113)
 	at reposense.RepoSense.main(RepoSense.java:60)
 
-Jul 06, 2021 6:46:28 PM reposense.report.RepoCloner spawnCloneProcess
+Jul 06, 2021 7:22:03 PM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/RepoSense/TEAMMATES.git...
-Jul 06, 2021 6:46:28 PM reposense.report.RepoCloner spawnCloneProcess
+Jul 06, 2021 7:22:03 PM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/CATcher-org/CATcher.git...
-Jul 06, 2021 6:46:28 PM reposense.report.RepoCloner spawnCloneProcess
+Jul 06, 2021 7:22:03 PM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/RepoSense/RepoSense.git...
-Jul 06, 2021 6:46:28 PM reposense.report.RepoCloner spawnCloneProcess
+Jul 06, 2021 7:22:03 PM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/MarkBind/MarkBind.git...
-Jul 06, 2021 6:46:28 PM reposense.report.RepoCloner waitForCloneProcess
-INFO: Waiting for cloning of https://github.com/RepoSense/TEAMMATES.git to complete...
-Jul 06, 2021 6:46:28 PM reposense.report.RepoCloner waitForCloneProcess
+Jul 06, 2021 7:22:03 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/MarkBind/MarkBind.git to complete...
-Jul 06, 2021 6:46:28 PM reposense.report.RepoCloner waitForCloneProcess
-INFO: Waiting for cloning of https://github.com/RepoSense/RepoSense.git to complete...
-Jul 06, 2021 6:46:28 PM reposense.report.RepoCloner waitForCloneProcess
+Jul 06, 2021 7:22:03 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/CATcher-org/CATcher.git to complete...
-Jul 06, 2021 6:46:28 PM reposense.report.RepoCloner waitForCloneProcess
+Jul 06, 2021 7:22:03 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Waiting for cloning of https://github.com/RepoSense/RepoSense.git to complete...
+Jul 06, 2021 7:22:03 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Waiting for cloning of https://github.com/RepoSense/TEAMMATES.git to complete...
+Jul 06, 2021 7:22:04 PM reposense.report.RepoCloner waitForCloneProcess
 WARNING: Exception met while trying to clone the repo "RepoSense/TEAMMATES[master]", will skip this repo.
 reposense.system.CommandRunnerProcessException: Error returned from command git clone --bare https://github.com/RepoSense/TEAMMATES.git TEAMMATES_bareon path repos/RepoSense_TEAMMATES :
 Cloning into bare repository 'TEAMMATES_bare'...
@@ -97,55 +97,55 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
 	at java.base/java.lang.Thread.run(Thread.java:829)
 
-Jul 06, 2021 6:46:29 PM reposense.report.RepoCloner waitForCloneProcess
+Jul 06, 2021 7:22:04 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/CATcher-org/CATcher.git completed!
-Jul 06, 2021 6:46:29 PM reposense.report.ReportGenerator analyzeRepos
+Jul 06, 2021 7:22:04 PM reposense.report.ReportGenerator analyzeRepos
 INFO: [1/4] Analyzing https://github.com/CATcher-org/CATcher.git (master)...
-Jul 06, 2021 6:46:29 PM reposense.report.ReportGenerator updateRepoConfig
+Jul 06, 2021 7:22:04 PM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/CATcher-org/CATcher.git (master) does not contain a standalone config file.
-Jul 06, 2021 6:46:29 PM reposense.report.ReportGenerator updateAuthorList
+Jul 06, 2021 7:22:04 PM reposense.report.ReportGenerator updateAuthorList
 INFO: https://github.com/CATcher-org/CATcher.git (master) has no authors specified, using all authors by default.
-Jul 06, 2021 6:46:29 PM reposense.commits.CommitInfoExtractor extractCommitInfos
+Jul 06, 2021 7:22:04 PM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/CATcher-org/CATcher.git (master)...
-Jul 06, 2021 6:46:29 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Jul 06, 2021 7:22:05 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/CATcher-org/CATcher.git (master)...
-Jul 06, 2021 6:46:29 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
+Jul 06, 2021 7:22:05 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
 INFO: Extracting relevant file info from https://github.com/CATcher-org/CATcher.git (master)...
-Jul 06, 2021 6:46:32 PM reposense.report.ReportGenerator analyzeRepo
+Jul 06, 2021 7:22:07 PM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/CATcher-org/CATcher.git (master) completed!
-Jul 06, 2021 6:46:32 PM reposense.report.RepoCloner waitForCloneProcess
+Jul 06, 2021 7:22:08 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/MarkBind/MarkBind.git completed!
-Jul 06, 2021 6:46:32 PM reposense.report.ReportGenerator analyzeRepos
+Jul 06, 2021 7:22:08 PM reposense.report.ReportGenerator analyzeRepos
 INFO: [2/4] Analyzing https://github.com/MarkBind/MarkBind.git (master)...
-Jul 06, 2021 6:46:32 PM reposense.report.ReportGenerator updateRepoConfig
+Jul 06, 2021 7:22:08 PM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/MarkBind/MarkBind.git (master) does not contain a standalone config file.
-Jul 06, 2021 6:46:32 PM reposense.report.ReportGenerator updateAuthorList
+Jul 06, 2021 7:22:08 PM reposense.report.ReportGenerator updateAuthorList
 INFO: https://github.com/MarkBind/MarkBind.git (master) has no authors specified, using all authors by default.
-Jul 06, 2021 6:46:32 PM reposense.commits.CommitInfoExtractor extractCommitInfos
+Jul 06, 2021 7:22:08 PM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/MarkBind/MarkBind.git (master)...
-Jul 06, 2021 6:46:34 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Jul 06, 2021 7:22:09 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/MarkBind/MarkBind.git (master)...
-Jul 06, 2021 6:46:34 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
+Jul 06, 2021 7:22:09 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
 INFO: Extracting relevant file info from https://github.com/MarkBind/MarkBind.git (master)...
-Jul 06, 2021 6:46:34 PM reposense.report.RepoCloner waitForCloneProcess
+Jul 06, 2021 7:22:09 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/RepoSense/RepoSense.git completed!
-Jul 06, 2021 6:46:34 PM reposense.report.ReportGenerator analyzeRepos
+Jul 06, 2021 7:22:09 PM reposense.report.ReportGenerator analyzeRepos
 INFO: [3/4] Analyzing https://github.com/RepoSense/RepoSense.git (master)...
-Jul 06, 2021 6:46:34 PM reposense.report.ReportGenerator updateRepoConfig
+Jul 06, 2021 7:22:09 PM reposense.report.ReportGenerator updateRepoConfig
 INFO: Ignoring standalone config file in https://github.com/RepoSense/RepoSense.git (master).
-Jul 06, 2021 6:46:34 PM reposense.report.ReportGenerator updateAuthorList
+Jul 06, 2021 7:22:09 PM reposense.report.ReportGenerator updateAuthorList
 INFO: https://github.com/RepoSense/RepoSense.git (master) has no authors specified, using all authors by default.
-Jul 06, 2021 6:46:34 PM reposense.commits.CommitInfoExtractor extractCommitInfos
+Jul 06, 2021 7:22:09 PM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/RepoSense/RepoSense.git (master)...
-Jul 06, 2021 6:46:35 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Jul 06, 2021 7:22:10 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/RepoSense/RepoSense.git (master)...
-Jul 06, 2021 6:46:35 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
+Jul 06, 2021 7:22:10 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
 INFO: Extracting relevant file info from https://github.com/RepoSense/RepoSense.git (master)...
-Jul 06, 2021 6:46:38 PM reposense.report.ReportGenerator analyzeRepo
+Jul 06, 2021 7:22:14 PM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/RepoSense/RepoSense.git (master) completed!
-Jul 06, 2021 6:46:41 PM reposense.report.ReportGenerator analyzeRepo
+Jul 06, 2021 7:22:17 PM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/MarkBind/MarkBind.git (master) completed!
-Jul 06, 2021 6:46:42 PM reposense.report.ReportGenerator generateReposReport
+Jul 06, 2021 7:22:17 PM reposense.report.ReportGenerator generateReposReport
 INFO: The report is generated at /home/runner/work/iwm-dashboard/iwm-dashboard/reposense-report
-Jul 06, 2021 6:46:42 PM reposense.RepoSense main
-INFO: Elapsed processing time: 13.89 second(s)
+Jul 06, 2021 7:22:17 PM reposense.RepoSense main
+INFO: Elapsed processing time: 13.84 second(s)
