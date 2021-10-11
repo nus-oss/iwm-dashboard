@@ -1,148 +1,148 @@
-Oct 10, 2021 12:02:36 AM reposense.parser.CsvParser validateHeader
+Oct 11, 2021 12:03:01 AM reposense.parser.CsvParser validateHeader
 INFO: Parsed header of CSV file, repo-config.csv, and recognized columns: Repository's Location,  Branch,  Shallow Cloning,  File formats,  Ignore Glob List,  Ignore Authors List,  Ignore standalone config
-Oct 10, 2021 12:02:36 AM reposense.parser.CsvParser validateHeader
+Oct 11, 2021 12:03:01 AM reposense.parser.CsvParser validateHeader
 INFO: Parsed header of CSV file, author-config.csv, and recognized columns: Author's Emails,  Repository's Location,  Author's GitHub ID,  Branch,  Author's Display Name,  Ignore Glob List,  Author's Git Author Name
-Oct 10, 2021 12:02:36 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Oct 11, 2021 12:03:01 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias aidoxe-123 found. The alias will belong to the last author - aidoxe-123
-Oct 10, 2021 12:02:36 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Oct 11, 2021 12:03:01 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias lyeyixian found. The alias will belong to the last author - lyeyixian
-Oct 10, 2021 12:02:36 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Oct 11, 2021 12:03:01 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias AudreyFelicio found. The alias will belong to the last author - AudreyFelicio
-Oct 10, 2021 12:02:36 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Oct 11, 2021 12:03:01 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias kimberlyohq found. The alias will belong to the last author - kimberlyohq
-Oct 10, 2021 12:02:36 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Oct 11, 2021 12:03:01 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias xyzhang00 found. The alias will belong to the last author - xyzhang00
-Oct 10, 2021 12:02:36 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Oct 11, 2021 12:03:01 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias Jellybeano found. The alias will belong to the last author - Jellybeano
-Oct 10, 2021 12:02:36 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Oct 11, 2021 12:03:01 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias ducbinh2611 found. The alias will belong to the last author - ducbinh2611
-Oct 10, 2021 12:02:36 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Oct 11, 2021 12:03:01 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias zatkiller found. The alias will belong to the last author - zatkiller
-Oct 10, 2021 12:02:36 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Oct 11, 2021 12:03:01 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias chan-j-d found. The alias will belong to the last author - chan-j-d
-Oct 10, 2021 12:02:36 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Oct 11, 2021 12:03:01 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias FH-30 found. The alias will belong to the last author - FH-30
-Oct 10, 2021 12:02:36 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Oct 11, 2021 12:03:01 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias RuiFengg found. The alias will belong to the last author - RuiFengg
-Oct 10, 2021 12:02:36 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Oct 11, 2021 12:03:01 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias arsatis found. The alias will belong to the last author - arsatis
-Oct 10, 2021 12:02:36 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Oct 11, 2021 12:03:01 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias josiahkhoo found. The alias will belong to the last author - josiahkhoo
-Oct 10, 2021 12:02:36 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Oct 11, 2021 12:03:01 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias yhtMinceraft1010X found. The alias will belong to the last author - yhtMinceraft1010X
-Oct 10, 2021 12:02:36 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Oct 11, 2021 12:03:01 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias tlylt found. The alias will belong to the last author - tlylt
-Oct 10, 2021 12:02:36 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Oct 11, 2021 12:03:01 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias xinyee20 found. The alias will belong to the last author - xinyee20
-Oct 10, 2021 12:02:36 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Oct 11, 2021 12:03:01 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias ong6 found. The alias will belong to the last author - ong6
-Oct 10, 2021 12:02:36 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Oct 11, 2021 12:03:01 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias aidoxe-123 found. The alias will belong to the last author - aidoxe-123
-Oct 10, 2021 12:02:36 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Oct 11, 2021 12:03:01 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias chan-j-d found. The alias will belong to the last author - chan-j-d
-Oct 10, 2021 12:02:36 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Oct 11, 2021 12:03:01 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias FH-30 found. The alias will belong to the last author - FH-30
-Oct 10, 2021 12:02:36 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Oct 11, 2021 12:03:01 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias yhtMinceraft1010X found. The alias will belong to the last author - yhtMinceraft1010X
-Oct 10, 2021 12:02:36 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Oct 11, 2021 12:03:01 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias lyeyixian found. The alias will belong to the last author - lyeyixian
-Oct 10, 2021 12:02:36 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Oct 11, 2021 12:03:01 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias xyzhang00 found. The alias will belong to the last author - xyzhang00
-Oct 10, 2021 12:02:36 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Oct 11, 2021 12:03:01 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias Jellybeano found. The alias will belong to the last author - Jellybeano
-Oct 10, 2021 12:02:36 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Oct 11, 2021 12:03:01 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias arsatis found. The alias will belong to the last author - arsatis
-Oct 10, 2021 12:02:36 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Oct 11, 2021 12:03:01 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias josiahkhoo found. The alias will belong to the last author - josiahkhoo
-Oct 10, 2021 12:02:36 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Oct 11, 2021 12:03:01 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias xinyee20 found. The alias will belong to the last author - xinyee20
-Oct 10, 2021 12:02:36 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Oct 11, 2021 12:03:01 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias AudreyFelicio found. The alias will belong to the last author - AudreyFelicio
-Oct 10, 2021 12:02:36 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Oct 11, 2021 12:03:01 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias ducbinh2611 found. The alias will belong to the last author - ducbinh2611
-Oct 10, 2021 12:02:36 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Oct 11, 2021 12:03:01 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias zatkiller found. The alias will belong to the last author - zatkiller
-Oct 10, 2021 12:02:36 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Oct 11, 2021 12:03:01 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias RuiFengg found. The alias will belong to the last author - RuiFengg
-Oct 10, 2021 12:02:36 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Oct 11, 2021 12:03:01 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias kimberlyohq found. The alias will belong to the last author - kimberlyohq
-Oct 10, 2021 12:02:36 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Oct 11, 2021 12:03:01 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias tlylt found. The alias will belong to the last author - tlylt
-Oct 10, 2021 12:02:36 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Oct 11, 2021 12:03:01 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias ong6 found. The alias will belong to the last author - ong6
-Oct 10, 2021 12:02:36 AM reposense.report.RepoCloner spawnCloneProcess
-INFO: Cloning in parallel from https://github.com/MarkBind/markbind.git...
-Oct 10, 2021 12:02:36 AM reposense.report.RepoCloner spawnCloneProcess
+Oct 11, 2021 12:03:01 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/teammates/TEAMMATES.git...
-Oct 10, 2021 12:02:36 AM reposense.report.RepoCloner spawnCloneProcess
+Oct 11, 2021 12:03:01 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/reposense/RepoSense.git...
-Oct 10, 2021 12:02:36 AM reposense.report.RepoCloner spawnCloneProcess
+Oct 11, 2021 12:03:01 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/CATcher-org/CATcher.git...
-Oct 10, 2021 12:02:36 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Waiting for cloning of https://github.com/MarkBind/markbind.git to complete...
-Oct 10, 2021 12:02:36 AM reposense.report.RepoCloner waitForCloneProcess
+Oct 11, 2021 12:03:01 AM reposense.report.RepoCloner spawnCloneProcess
+INFO: Cloning in parallel from https://github.com/MarkBind/markbind.git...
+Oct 11, 2021 12:03:01 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/CATcher-org/CATcher.git to complete...
-Oct 10, 2021 12:02:36 AM reposense.report.RepoCloner waitForCloneProcess
+Oct 11, 2021 12:03:01 AM reposense.report.RepoCloner waitForCloneProcess
+INFO: Waiting for cloning of https://github.com/MarkBind/markbind.git to complete...
+Oct 11, 2021 12:03:01 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/reposense/RepoSense.git to complete...
-Oct 10, 2021 12:02:36 AM reposense.report.RepoCloner waitForCloneProcess
+Oct 11, 2021 12:03:01 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/teammates/TEAMMATES.git to complete...
-Oct 10, 2021 12:02:38 AM reposense.report.RepoCloner waitForCloneProcess
+Oct 11, 2021 12:03:03 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/CATcher-org/CATcher.git completed!
-Oct 10, 2021 12:02:38 AM reposense.report.ReportGenerator analyzeRepos
+Oct 11, 2021 12:03:03 AM reposense.report.ReportGenerator analyzeRepos
 INFO: [1/4] Analyzing https://github.com/CATcher-org/CATcher.git (master)...
-Oct 10, 2021 12:02:38 AM reposense.report.ReportGenerator updateRepoConfig
+Oct 11, 2021 12:03:03 AM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/CATcher-org/CATcher.git (master) does not contain a standalone config file.
-Oct 10, 2021 12:02:38 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
+Oct 11, 2021 12:03:03 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
 INFO: Extracting relevant file info from https://github.com/CATcher-org/CATcher.git (master)...
-Oct 10, 2021 12:02:41 AM reposense.commits.CommitInfoExtractor extractCommitInfos
-INFO: Extracting commits info for https://github.com/CATcher-org/CATcher.git (master)...
-Oct 10, 2021 12:02:41 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
-INFO: Analyzing commits info for https://github.com/CATcher-org/CATcher.git (master)...
-Oct 10, 2021 12:02:42 AM reposense.report.ReportGenerator analyzeRepo
-INFO: Analysis of https://github.com/CATcher-org/CATcher.git (master) completed!
-Oct 10, 2021 12:02:43 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Cloning of https://github.com/reposense/RepoSense.git completed!
-Oct 10, 2021 12:02:43 AM reposense.report.ReportGenerator analyzeRepos
-INFO: [2/4] Analyzing https://github.com/reposense/RepoSense.git (master)...
-Oct 10, 2021 12:02:44 AM reposense.report.ReportGenerator updateRepoConfig
-INFO: Ignoring standalone config file in https://github.com/reposense/RepoSense.git (master).
-Oct 10, 2021 12:02:44 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
-INFO: Extracting relevant file info from https://github.com/reposense/RepoSense.git (master)...
-Oct 10, 2021 12:02:50 AM reposense.commits.CommitInfoExtractor extractCommitInfos
-INFO: Extracting commits info for https://github.com/reposense/RepoSense.git (master)...
-Oct 10, 2021 12:02:50 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
-INFO: Analyzing commits info for https://github.com/reposense/RepoSense.git (master)...
-Oct 10, 2021 12:02:50 AM reposense.report.ReportGenerator analyzeRepo
-INFO: Analysis of https://github.com/reposense/RepoSense.git (master) completed!
-Oct 10, 2021 12:02:58 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Cloning of https://github.com/teammates/TEAMMATES.git completed!
-Oct 10, 2021 12:02:58 AM reposense.report.ReportGenerator analyzeRepos
-INFO: [3/4] Analyzing https://github.com/teammates/TEAMMATES.git (master)...
-Oct 10, 2021 12:02:58 AM reposense.report.ReportGenerator updateRepoConfig
-INFO: https://github.com/teammates/TEAMMATES.git (master) does not contain a standalone config file.
-Oct 10, 2021 12:02:58 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
-INFO: Extracting relevant file info from https://github.com/teammates/TEAMMATES.git (master)...
-Oct 10, 2021 12:03:35 AM reposense.commits.CommitInfoExtractor extractCommitInfos
-INFO: Extracting commits info for https://github.com/teammates/TEAMMATES.git (master)...
-Oct 10, 2021 12:03:36 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
-INFO: Analyzing commits info for https://github.com/teammates/TEAMMATES.git (master)...
-Oct 10, 2021 12:03:36 AM reposense.report.ReportGenerator analyzeRepo
-INFO: Analysis of https://github.com/teammates/TEAMMATES.git (master) completed!
-Oct 10, 2021 12:04:12 AM reposense.report.RepoCloner waitForCloneProcess
+Oct 11, 2021 12:03:07 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/MarkBind/markbind.git completed!
-Oct 10, 2021 12:04:12 AM reposense.report.ReportGenerator analyzeRepos
-INFO: [4/4] Analyzing https://github.com/MarkBind/markbind.git (master)...
-Oct 10, 2021 12:04:12 AM reposense.report.ReportGenerator updateRepoConfig
+Oct 11, 2021 12:03:07 AM reposense.report.ReportGenerator analyzeRepos
+INFO: [2/4] Analyzing https://github.com/MarkBind/markbind.git (master)...
+Oct 11, 2021 12:03:08 AM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/MarkBind/markbind.git (master) does not contain a standalone config file.
-Oct 10, 2021 12:04:12 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
+Oct 11, 2021 12:03:08 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
 INFO: Extracting relevant file info from https://github.com/MarkBind/markbind.git (master)...
-Oct 10, 2021 12:04:18 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Oct 11, 2021 12:03:08 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+INFO: Extracting commits info for https://github.com/CATcher-org/CATcher.git (master)...
+Oct 11, 2021 12:03:09 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+INFO: Analyzing commits info for https://github.com/CATcher-org/CATcher.git (master)...
+Oct 11, 2021 12:03:09 AM reposense.report.ReportGenerator analyzeRepo
+INFO: Analysis of https://github.com/CATcher-org/CATcher.git (master) completed!
+Oct 11, 2021 12:03:11 AM reposense.report.RepoCloner waitForCloneProcess
+INFO: Cloning of https://github.com/reposense/RepoSense.git completed!
+Oct 11, 2021 12:03:11 AM reposense.report.ReportGenerator analyzeRepos
+INFO: [3/4] Analyzing https://github.com/reposense/RepoSense.git (master)...
+Oct 11, 2021 12:03:11 AM reposense.report.ReportGenerator updateRepoConfig
+INFO: Ignoring standalone config file in https://github.com/reposense/RepoSense.git (master).
+Oct 11, 2021 12:03:11 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
+INFO: Extracting relevant file info from https://github.com/reposense/RepoSense.git (master)...
+Oct 11, 2021 12:03:20 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+INFO: Extracting commits info for https://github.com/reposense/RepoSense.git (master)...
+Oct 11, 2021 12:03:20 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+INFO: Analyzing commits info for https://github.com/reposense/RepoSense.git (master)...
+Oct 11, 2021 12:03:20 AM reposense.report.ReportGenerator analyzeRepo
+INFO: Analysis of https://github.com/reposense/RepoSense.git (master) completed!
+Oct 11, 2021 12:03:20 AM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/MarkBind/markbind.git (master)...
-Oct 10, 2021 12:04:18 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Oct 11, 2021 12:03:21 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/MarkBind/markbind.git (master)...
-Oct 10, 2021 12:04:18 AM reposense.report.ReportGenerator analyzeRepo
+Oct 11, 2021 12:03:21 AM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/MarkBind/markbind.git (master) completed!
-Oct 10, 2021 12:04:18 AM reposense.report.ReportGenerator generateReposReport
+Oct 11, 2021 12:03:29 AM reposense.report.RepoCloner waitForCloneProcess
+INFO: Cloning of https://github.com/teammates/TEAMMATES.git completed!
+Oct 11, 2021 12:03:29 AM reposense.report.ReportGenerator analyzeRepos
+INFO: [4/4] Analyzing https://github.com/teammates/TEAMMATES.git (master)...
+Oct 11, 2021 12:03:29 AM reposense.report.ReportGenerator updateRepoConfig
+INFO: https://github.com/teammates/TEAMMATES.git (master) does not contain a standalone config file.
+Oct 11, 2021 12:03:29 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
+INFO: Extracting relevant file info from https://github.com/teammates/TEAMMATES.git (master)...
+Oct 11, 2021 12:04:11 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+INFO: Extracting commits info for https://github.com/teammates/TEAMMATES.git (master)...
+Oct 11, 2021 12:04:12 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+INFO: Analyzing commits info for https://github.com/teammates/TEAMMATES.git (master)...
+Oct 11, 2021 12:04:12 AM reposense.report.ReportGenerator analyzeRepo
+INFO: Analysis of https://github.com/teammates/TEAMMATES.git (master) completed!
+Oct 11, 2021 12:04:12 AM reposense.report.ReportGenerator generateReposReport
 INFO: The report is generated at /home/runner/work/iwm-dashboard/iwm-dashboard/reposense-report
-Oct 10, 2021 12:04:19 AM reposense.RepoSense main
-INFO: Elapsed processing time: 1 minute(s) 42.83 second(s)
+Oct 11, 2021 12:04:12 AM reposense.RepoSense main
+INFO: Elapsed processing time: 1 minute(s) 10.95 second(s)
